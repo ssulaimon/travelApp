@@ -2,7 +2,8 @@
 
 enum Categories {
   lake,
-  hotels,
+  beach,
+
   islands,
   amazingPool,
   omg,
